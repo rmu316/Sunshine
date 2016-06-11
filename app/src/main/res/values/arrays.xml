@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="measure">
+        <item>@string/pref_measure_metric</item>
+        <item>@string/pref_measure_imperial</item>
+    </string-array>
+    <string-array name="values">
+        <item>@string/pref_measure_metric</item>
+        <item>@string/pref_measure_imperial</item>
+    </string-array>
+</resources>
